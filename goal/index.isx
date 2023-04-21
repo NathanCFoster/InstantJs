@@ -1,0 +1,15 @@
+import component from "../something.is"
+
+const asdfasdf = () => {
+    for do something in something
+}
+
+export (
+    <div>
+        <component>
+        {children}
+        </component>
+        <button onclick={() => asdfasdf()}>
+        </button>
+    </div>
+)

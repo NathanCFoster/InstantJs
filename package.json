@@ -1,0 +1,23 @@
+{
+  "name": "instant.js",
+  "version": "1.0.0",
+  "description": "Yet another JS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanCFoster/InstantJs.git"
+  },
+  "keywords": [
+    "instant",
+    "js"
+  ],
+  "author": "NathanCFoster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanCFoster/InstantJs/issues"
+  },
+  "homepage": "https://github.com/NathanCFoster/InstantJs#readme"
+}
